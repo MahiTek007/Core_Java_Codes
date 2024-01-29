@@ -1,4 +1,4 @@
-package PracticePrograms.GeeksProblems;
+package GeeksProblems;
 
 /**
  * Substring

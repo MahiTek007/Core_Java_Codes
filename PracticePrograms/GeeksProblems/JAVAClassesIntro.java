@@ -1,4 +1,4 @@
-package PracticePrograms.GeeksProblems;
+package GeeksProblems;
 
 public class JAVAClassesIntro {
     public static void main(String[] args) {
