@@ -8,6 +8,7 @@ public class CheckEVEN_ODD_WithoutModulusOperator {
         System.out.print("Enter Number :\t");
         int i = sc.nextInt();
         String checkEvenOdd=checkEvenOdd(i);
+        sc.close();
         System.out.println("Number is:\t"+checkEvenOdd);
     }
 
