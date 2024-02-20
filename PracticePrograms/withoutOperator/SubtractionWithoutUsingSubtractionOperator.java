@@ -19,7 +19,6 @@ public class SubtractionWithoutUsingSubtractionOperator {
             result=num1;
             return result;
         }
-
         result=subtraction((num1^num2),(~num1 & num2)<<1);
         return result;
     }
