@@ -13,9 +13,9 @@ public class SwappingTwoNumbersWithoutThirdVeriable {
         int a=num1;
         int b=num2;
         a= a+b;//3
-        b=a-b;
-        a=a-b;
-        System.out.println("num1 "+a+"\nnum2 "+b);
+        b=a-b;//2
+        a=a-b;//1
+        System.out.println("num1 "+a+"\n num2 "+b);
         sc.close();
     }
     
