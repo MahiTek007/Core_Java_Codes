@@ -1,6 +1,15 @@
 package OMFSYQueshtions;
 
 import java.util.Scanner;
+/* Write a Java Program For 
+			case I)   Input: --> java 
+				  Output:--> jv
+			case II)  Input: --> baba 
+				  Output:--> Null/NAN
+			case III) Input: --> abc 
+				  Output:--> abc
+Give Input must Be at runtime.
+ */
 
 public class ProgramOnREmoveRepeatedCharacters {
     public static void main(String[] args) {
