@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.ArmstrongNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "FactorialUsingRecursion",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.FactorialUsingRecursion",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "Factorialnumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.Factorialnumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "PallindromeNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.PallindromeNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.PrimeNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeriesUsingRecursion",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.FibonacciSeriesUsingRecursion",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.FibonacciSeries",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
