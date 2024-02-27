@@ -4,7 +4,48 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "TechNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.TechNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "SunnyNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.SunnyNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "PetersonNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.PetersonNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "AutomorphicNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.AutomorphicNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.ReverseNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
+        {
+            "type": "java",
+            "name": "GenerateRandomNumber",
+            "request": "launch",
+            "mainClass": "queshtionOnNumbers.GenerateRandomNumber",
+            "projectName": "Core_Java_Codes_b233d627"
+        },
         {
             "type": "java",
             "name": "ArmstrongNumber",
